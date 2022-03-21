@@ -1,0 +1,20 @@
+/*
+Logistic Regression and Linear Regression
+When you are doing logistic regression, how do you assess your model? What is the different compared to simple linear regression?
+*/
+
+Essentially when we are doing Logistic Regression we try and find the best plane that can linearly separate our data. 
+So, in that case being a classification model, the cost function which minimises our loss is different as opposed to Linear Regression,
+which essentially is a Regression technique trying to predict continuous values and hence uses a cost function like reducing the Mean Squared Error.
+
+The accuracy measures for classification model can be:
+- Accuracy, Precision, Recall
+- Log Loss
+- F1 score
+- AUC
+
+The accuracy measures for Regression model can be:
+- Mean Absolute Error
+- Mean Squared Error
+- R2
+- Root Mean Squared Error
