@@ -1,0 +1,13 @@
+/*
+Logistic Regression and Odds Ratio
+What are the relationships between the coefficient in the logistic regression and the odds ratio?
+*/
+
+Odds Ratio: Ratio of success of event to the failure of event.
+
+OR = P(x) / (1 - P(x)), simply p/(1-p)
+
+Coefficients of Logistic Regression:
+w0 + w1x1 + w2x2 + --wNxN = Log(p/(1-p))
+
+Or, p/(1-p) = exp(coefficients)
