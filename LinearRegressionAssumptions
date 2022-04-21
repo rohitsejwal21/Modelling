@@ -2,6 +2,8 @@
 What are the assumptions of a Linear Regression?
 */
 
+Assumptions:
+
 1. Collinear: The features are not correlated to each other which helps the data be more linearly separable in nature.
 2. Linear Relation of target variable to each feature
 3. Errors or Residual value for each point if plotted should be normally distributed. Mean of residual tends to 0.
