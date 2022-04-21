@@ -4,7 +4,7 @@ When you are doing logistic regression, how do you assess your model?
 What is the different compared to simple linear regression?
 */
 
-Thoughts:
+Points:
 
 Essentially when we are doing Logistic Regression we try and find the best plane that can linearly separate our data. 
 So, in that case being a classification model, the cost function which minimises our loss is different as opposed to Linear Regression,
