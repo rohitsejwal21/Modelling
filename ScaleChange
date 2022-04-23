@@ -12,9 +12,7 @@ Features of current location and pickup can give us a distance metric.
 Which since is just 1 metric, 
 change in scale will not matter as opposed to cases with more features.
 
-Now, 
-
-Let's say,
+Now, Let's say,
 Log(Odds Ratio) = 2 - 0.15 * Distance
 
 What this means is:
