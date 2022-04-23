@@ -12,8 +12,7 @@ Features of current location and pickup can give us a distance metric.
 Which since is just 1 metric, 
 change in scale will not matter as opposed to cases with more features.
 
-Now, Let's say,
-Log(Odds Ratio) = 2 - 0.15 * Distance
+Now, Let's say, Log(Odds Ratio) = 2 - 0.15 * Distance
 
 What this means is:
 Coefficient is 0.15, and sign is negative. So, every 1 unit increase in distance means e ^ 0.15 = 1.16, 
