@@ -18,6 +18,5 @@ Let's say,
 Log(Odds Ratio) = 2 - 0.15 * Distance
 
 What this means is:
-
 Coefficient is 0.15, and sign is negative. So, every 1 unit increase in distance means e ^ 0.15 = 1.16, 
 means 16% less chances that driver accepts the ride. Since, Odds Ratio = EXP(Coefficients) 
