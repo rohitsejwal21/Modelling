@@ -1,10 +1,12 @@
 /*
 Changing the Scale of Distance
-If we want to build a logistic regression model with the distance 
-(between the rider's current location and the pickup location) as the feature and the rider's acceptance as output, 
+If we want to build a logistic regression model with the distance (between the rider's current location and the pickup location),
+as the feature and the rider's acceptance as output, 
 what would be the meaning of the coefficient of the feature? 
 What will happen to the model if we change the scale of the distance (from the mile to km, or from km to m)?
 */
+
+Points:
 
 Features of current location and pickup can give us a distance metric. 
 Which since is just 1 metric, 
