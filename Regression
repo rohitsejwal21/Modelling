@@ -7,8 +7,8 @@ Regression is a task to predict an event based on the previously gathered inform
 This prediction is mostly continuous value and not simple True/False value.
 
 A simple example could be:
-You take 5 minutes to reach your school, and the distance is just 1km away from your home.
-Your friend takes 15 minutes to reach school and the distance is 4km.
+You take 5 minutes to reach your school, and the distance is just 1km away from your home;
+Your friend takes 15 minutes to reach school and the distance is 4km;
 Your other friend reaches in 30 minutes, and the distance is 7km.
 
 So, if the teacher takes 25 minutes, and you have to guess how much kms: you could say something around 5-6km based on what others take.
