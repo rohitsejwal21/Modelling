@@ -2,7 +2,7 @@
 What are the assumptions of a Linear Regression?
 */
 
-Assumptions:
+Assumptions of using Linear Regression algorithm are:-
 
 1. Collinear: The features are not correlated to each other which helps the data be more linearly separable in nature.
 2. Linear Relation of target variable to each feature
