@@ -2,7 +2,7 @@
 Do you think an additional feature improves Logistic Regression more?
 */
 
-Logistic Regression mostly involves assumption of linearly separable data. 
+Logistic Regression mostly involves assumption of linearly separable data.
 Adding more dimensions or features with low collinearity will help gain more and more linearly separable data in higher dimension. 
 In that regard, it can help Logistic Regression along with regularisation feature which can be used with more squared parameters. 
 
