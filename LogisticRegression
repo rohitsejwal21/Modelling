@@ -8,4 +8,4 @@ In that regard, it can help Logistic Regression along with regularisation featur
 
 Downsides are obvious that too many dimensions might need more amount of data for conclusive and definite answers, 
 Otherwise the dimensionality increase would mostly be a burden which can be somehow managed with Regularisation again. 
-So, more upsides for Logistic Regression.
+So, more upsides for Logistic Regression than downsides.
